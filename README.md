@@ -25,13 +25,21 @@
 <img width="1048" height="610" alt="image" src="https://github.com/user-attachments/assets/7391f96a-b39a-4fb9-b542-90a9c339ed31" />
 
 <img width="588" height="664" alt="image" src="https://github.com/user-attachments/assets/de5be331-1235-4fde-b694-87b23ff61024" />
+
 От проворачивания они ограничены выступами которые входят в пазы профиля.
 <img width="524" height="509" alt="image" src="https://github.com/user-attachments/assets/9c1f7ca0-83eb-46ad-a720-0ab3a2a9b8ee" />
 
 3) Горизонтальные профили:
-Расположены в три уровня и соединены с вертикальными профилями с помощью напечатанных деталей и сухарей. Горизонтальные профили удерживают фишки с отверстиями под сверла.
+Расположены в три уровня и соединены с вертикальными профилями с помощью напечатанных деталей и сухарей.
+<img width="1006" height="622" alt="image" src="https://github.com/user-attachments/assets/dfbe58ff-05bb-416f-bd5b-cd6d7904cb3f" />
+Аналогично вертикальным профилям они крепяться на торце горизонтального профиля
+<img width="382" height="542" alt="image" src="https://github.com/user-attachments/assets/cb639872-7ce2-4d70-9c66-0a49839d14f7" />
+<img width="376" height="577" alt="image" src="https://github.com/user-attachments/assets/2973b773-19e0-4092-8fa6-4e756275ba9c" />
 
-4) Фишки для сверл:
+
+Горизонтальные профили удерживают фишки с отверстиями под сверла.
+
+5) Фишки для сверл:
 
 - Фишки вставляются в пазы горизонтальных профилей.
 - Каждая фишка рассчитана под конкретный диаметр сверла или шестигранника.
