@@ -60,3 +60,19 @@
 
 - Конструкция легко масштабируется для других размеров инструментов
 - Все напечатанные элементы можно легко изменить в CAD для адаптации под новые потребности
+
+# Фото и визуализация
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2832daf7-70c2-4c2d-a3da-69c7a42b0f61" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/60997991-21e4-49ad-a810-98743465f462" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/8ba99088-c7ac-46fe-81e4-f148796370c7" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6bc04cd3-7f5b-421b-84fd-c30c46eadaf2" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad6c016b-1f5e-4234-b055-01769347b26e" />
+
+![Uploading image.png…]()
+
+
+
