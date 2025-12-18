@@ -24,17 +24,18 @@
 Два основных профиля, расположенные вертикально, служат каркасом конструкции.  
 
 Снизу к ним крепятся **опорные лапы**, которые стягиваются винтами М4. Зафиксированы они так, что не проворачиваются благодаря выступам, входящим в пазы профилей.
+
 <img width="1048" height="610" alt="image" src="https://github.com/user-attachments/assets/7391f96a-b39a-4fb9-b542-90a9c339ed31" />
 
 <img width="588" height="664" alt="image" src="https://github.com/user-attachments/assets/de5be331-1235-4fde-b694-87b23ff61024" />
 
-От проворачивания они ограничены выступами которые входят в пазы профиля.
 <img width="524" height="509" alt="image" src="https://github.com/user-attachments/assets/9c1f7ca0-83eb-46ad-a720-0ab3a2a9b8ee" />
 
 ### 2) Горизонтальные профили:
-Расположены в три уровня и соединены с вертикальными профилями с помощью напечатанных деталей и сухарей.
+Горизонтальные профили расположены на **трёх уровнях** и соединены с вертикальными профилями через напечатанные крепления и сухари.
+
 <img width="1006" height="622" alt="image" src="https://github.com/user-attachments/assets/dfbe58ff-05bb-416f-bd5b-cd6d7904cb3f" />
-Аналогично вертикальным профилям они крепяться на торце горизонтального профиля
+Аналогично вертикальным, они фиксируются на торцах, чтобы держать устойчивую конструкцию.
 <img width="341" height="454" alt="image" src="https://github.com/user-attachments/assets/fe143ae4-5376-4052-8d96-6f915fa6cd48" />
 <img width="397" height="611" alt="image" src="https://github.com/user-attachments/assets/0509d7b7-9be4-4e6d-9c96-df8ef44d949c" />
 
