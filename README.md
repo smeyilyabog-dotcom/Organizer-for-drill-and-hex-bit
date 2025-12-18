@@ -33,8 +33,8 @@
 Расположены в три уровня и соединены с вертикальными профилями с помощью напечатанных деталей и сухарей.
 <img width="1006" height="622" alt="image" src="https://github.com/user-attachments/assets/dfbe58ff-05bb-416f-bd5b-cd6d7904cb3f" />
 Аналогично вертикальным профилям они крепяться на торце горизонтального профиля
-<img width="382" height="542" alt="image" src="https://github.com/user-attachments/assets/cb639872-7ce2-4d70-9c66-0a49839d14f7" />
-<img width="376" height="577" alt="image" src="https://github.com/user-attachments/assets/2973b773-19e0-4092-8fa6-4e756275ba9c" />
+<img width="341" height="454" alt="image" src="https://github.com/user-attachments/assets/fe143ae4-5376-4052-8d96-6f915fa6cd48" />
+<img width="397" height="611" alt="image" src="https://github.com/user-attachments/assets/0509d7b7-9be4-4e6d-9c96-df8ef44d949c" />
 
 
 Горизонтальные профили удерживают фишки с отверстиями под сверла.
